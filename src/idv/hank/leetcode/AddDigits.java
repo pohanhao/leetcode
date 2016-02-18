@@ -11,8 +11,7 @@ public class AddDigits {
 	public int addDigits(int num) {
 		int sum = 0;
 		do {
-			sum = 0;
-			for (; num > 0; num /= 10) {
+			for (sum = 0; num > 0; num /= 10) {
 				sum += num % 10;
 			}
 			num = sum;
