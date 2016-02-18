@@ -9,13 +9,16 @@ package idv.hank.leetcode;
 public class FindMinimumInRotatedSortedArray {
 
 	public int findMin(int[] nums) {
-		int min = Integer.MAX_VALUE;
-		for (int num : nums) {
-			if (num < min) {
-				min = num;
+		int start = 0, end = nums.length - 1, mid;
+		while (start < end) {
+			mid = (start + end) / 2;
+			if (nums[mid] > nums[end]) {
+				start = mid + 1;
+			} else {
+				end = mid;
 			}
 		}
-		return min;
+		return nums[start];
 	}
 
 }
