@@ -15,11 +15,7 @@ public class WiggleSortII {
 
 	public void wiggleSort(int[] nums) {
 		int median = 0;
-		if (nums.length % 2 == 0) {
-			median = (int) ((nums.length / (double) 2)) - 1;
-		} else {
-			median = (int) ((nums.length / (double) 2));
-		}
+		median = (int) (((nums.length - 1) / (double) 2));
 		List<Integer> list = Arrays.stream(nums).boxed().collect(Collectors.toList());
 		Collections.sort(list);
 		int end = nums.length - 1;
