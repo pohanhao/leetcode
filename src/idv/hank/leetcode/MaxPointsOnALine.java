@@ -21,7 +21,7 @@ public class MaxPointsOnALine {
 
 		int max = 0;
 		for (int i = 0; i < length; i++) {
-			for (int j = 0; j < length; j++) {
+			for (int j = i + 1; j < length; j++) {
 				int count = 2;
 				if (i != j) {
 					if (isSameNode(points[i], points[j])) {
