@@ -6,6 +6,7 @@ https://leetcode.com/problemset/algorithms/
 
 |#|Title|Difficulty|
 |---|-----|----------|
+|1|[Two Sum](./src/idv/hank/leetcode/TwoSum.java)|Medium|
 |59|[Spiral Matrix II](./src/idv/hank/leetcode/SpiralMatrixII.java)|Medium|
 |61|[Rotate List](./src/idv/hank/leetcode/RotateList.java)|Medium|
 |147|[Insertion Sort List](./src/idv/hank/leetcode/InsertionSortList.java)|Medium|
@@ -18,5 +19,6 @@ https://leetcode.com/problemset/algorithms/
 |258|[Add Digits](./src/idv/hank/leetcode/AddDigits.java)|Easy|
 |268|[Missing Number](./src/idv/hank/leetcode/MissingNumber.java)|Medium|
 |292|[Nim Game](./src/idv/hank/leetcode/NimGame.java)|Easy|
+|322|[Coin Change](./src/idv/hank/leetcode/CoinChange.java)|Medium|
 |324|[Wiggle Sort II](./src/idv/hank/leetcode/WiggleSortII.java)|Medium|
 
