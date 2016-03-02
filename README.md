@@ -17,6 +17,7 @@ https://leetcode.com/problemset/algorithms/
 |191|[Number of 1 Bits](./src/idv/hank/leetcode/NumberOf1Bits.java)|Easy|
 |198|[House Robber](./src/idv/hank/leetcode/HouseRobber.java)|Easy|
 |201|[Bitwise AND of Numbers Range](./src/idv/hank/leetcode/BitwiseAndOfNumbersRange.java)|Medium|
+|204|[Count Primes](./src/idv/hank/leetcode/CountPrimes.java)|Easy|
 |258|[Add Digits](./src/idv/hank/leetcode/AddDigits.java)|Easy|
 |268|[Missing Number](./src/idv/hank/leetcode/MissingNumber.java)|Medium|
 |292|[Nim Game](./src/idv/hank/leetcode/NimGame.java)|Easy|
