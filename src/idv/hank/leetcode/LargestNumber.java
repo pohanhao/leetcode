@@ -25,7 +25,7 @@ public class LargestNumber {
 		String j = String.valueOf(n2);
 		String s1 = i + j;
 		String s2 = j + i;
-		return -s1.compareTo(s2);
+		return s2.compareTo(s1);
 	}
 
 	private String toString(List<Integer> digitals) {
