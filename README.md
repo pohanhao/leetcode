@@ -7,6 +7,7 @@ https://leetcode.com/problemset/algorithms/
 |#|Title|Difficulty|
 |---|-----|----------|
 |1|[Two Sum](./src/idv/hank/leetcode/TwoSum.java)|Medium|
+|34|[Search for a Range](./src/idv/hank/leetcode/SearchForARange.java)|Medium|
 |53|[Maximum Subarray](./src/idv/hank/leetcode/MaximumSubarray.java)|Medium|
 |59|[Spiral Matrix II](./src/idv/hank/leetcode/SpiralMatrixII.java)|Medium|
 |61|[Rotate List](./src/idv/hank/leetcode/RotateList.java)|Medium|
