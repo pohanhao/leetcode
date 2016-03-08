@@ -11,6 +11,7 @@ https://leetcode.com/problemset/algorithms/
 |53|[Maximum Subarray](./src/idv/hank/leetcode/MaximumSubarray.java)|Medium|
 |59|[Spiral Matrix II](./src/idv/hank/leetcode/SpiralMatrixII.java)|Medium|
 |61|[Rotate List](./src/idv/hank/leetcode/RotateList.java)|Medium|
+|136|[Single Number](./src/idv/hank/leetcode/SingleNumber.java)|Medium|
 |147|[Insertion Sort List](./src/idv/hank/leetcode/InsertionSortList.java)|Medium|
 |151|[Reverse Words in a String](./src/idv/hank/leetcode/ReverseWordsInAString.java)|Medium|
 |153|[Find Minimum in Rotated Sorted Array](./src/idv/hank/leetcode/FindMinimumInRotatedSortedArray.java)|Medium|
