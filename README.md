@@ -22,6 +22,7 @@ https://leetcode.com/problemset/algorithms/
 |198|[House Robber](./src/idv/hank/leetcode/HouseRobber.java)|Easy|
 |201|[Bitwise AND of Numbers Range](./src/idv/hank/leetcode/BitwiseAndOfNumbersRange.java)|Medium|
 |204|[Count Primes](./src/idv/hank/leetcode/CountPrimes.java)|Easy|
+|231|[Power of Two](./src/idv/hank/leetcode/PowerOfTwo.java)|Easy|
 |258|[Add Digits](./src/idv/hank/leetcode/AddDigits.java)|Easy|
 |268|[Missing Number](./src/idv/hank/leetcode/MissingNumber.java)|Medium|
 |287|[Find the Duplicate Number](./src/idv/hank/leetcode/FindTheDuplicateNumber.java)|Hard|
