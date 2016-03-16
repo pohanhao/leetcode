@@ -7,11 +7,13 @@ https://leetcode.com/problemset/algorithms/
 |#|Title|Difficulty|
 |---|-----|----------|
 |1|[Two Sum](./src/idv/hank/leetcode/TwoSum.java)|Medium|
+|19|[Remove Nth Node From End of List](./src/idv/hank/leetcode/RemoveNthNodeFromEndOfList.java)|Easy|
 |21|[Merge Two Sorted Lists](./src/idv/hank/leetcode/MergeTwoSortedLists.java)|Easy|
 |34|[Search for a Range](./src/idv/hank/leetcode/SearchForARange.java)|Medium|
 |53|[Maximum Subarray](./src/idv/hank/leetcode/MaximumSubarray.java)|Medium|
 |59|[Spiral Matrix II](./src/idv/hank/leetcode/SpiralMatrixII.java)|Medium|
 |61|[Rotate List](./src/idv/hank/leetcode/RotateList.java)|Medium|
+|69|[Sqrt(x)](./src/idv/hank/leetcode/SqrtRoot.java)|Medium|
 |136|[Single Number](./src/idv/hank/leetcode/SingleNumber.java)|Medium|
 |147|[Insertion Sort List](./src/idv/hank/leetcode/InsertionSortList.java)|Medium|
 |151|[Reverse Words in a String](./src/idv/hank/leetcode/ReverseWordsInAString.java)|Medium|
