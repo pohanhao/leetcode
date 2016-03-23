@@ -34,4 +34,5 @@ https://leetcode.com/problemset/algorithms/
 |292|[Nim Game](./src/idv/hank/leetcode/NimGame.java)|Easy|
 |322|[Coin Change](./src/idv/hank/leetcode/CoinChange.java)|Medium|
 |324|[Wiggle Sort II](./src/idv/hank/leetcode/WiggleSortII.java)|Medium|
+|326|[Power of Three](./src/idv/hank/leetcode/PowerOfThree.java)|Medium|
 
