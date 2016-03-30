@@ -14,6 +14,7 @@ https://leetcode.com/problemset/algorithms/
 |53|[Maximum Subarray](./src/idv/hank/leetcode/MaximumSubarray.java)|Medium|
 |59|[Spiral Matrix II](./src/idv/hank/leetcode/SpiralMatrixII.java)|Medium|
 |61|[Rotate List](./src/idv/hank/leetcode/RotateList.java)|Medium|
+|67|[Add Binary](./src/idv/hank/leetcode/AddBinary.java)|Easy|
 |69|[Sqrt(x)](./src/idv/hank/leetcode/SqrtRoot.java)|Medium|
 |136|[Single Number](./src/idv/hank/leetcode/SingleNumber.java)|Medium|
 |147|[Insertion Sort List](./src/idv/hank/leetcode/InsertionSortList.java)|Medium|
