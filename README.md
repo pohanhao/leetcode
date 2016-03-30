@@ -23,7 +23,6 @@ https://leetcode.com/problemset/algorithms/
 |149|[Max Points on a Line](./src/idv/hank/leetcode/MaxPointsOnALine.java)|Hard|
 |165|[Compare Version Numbers](./src/idv/hank/leetcode/CompareVersionNumbers.java)|Easy|
 |179|[Largest Number](./src/idv/hank/leetcode/LargestNumber.java)|Medium|
-|190|[Reverse Bits](./src/idv/hank/leetcode/ReverseBits.java)|Easy|
 |191|[Number of 1 Bits](./src/idv/hank/leetcode/NumberOf1Bits.java)|Easy|
 |198|[House Robber](./src/idv/hank/leetcode/HouseRobber.java)|Easy|
 |201|[Bitwise AND of Numbers Range](./src/idv/hank/leetcode/BitwiseAndOfNumbersRange.java)|Medium|
