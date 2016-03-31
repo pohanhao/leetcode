@@ -9,11 +9,13 @@ https://leetcode.com/problemset/algorithms/
 |1|[Two Sum](./src/idv/hank/leetcode/TwoSum.java)|Medium|
 |19|[Remove Nth Node From End of List](./src/idv/hank/leetcode/RemoveNthNodeFromEndOfList.java)|Easy|
 |21|[Merge Two Sorted Lists](./src/idv/hank/leetcode/MergeTwoSortedLists.java)|Easy|
+|26|[Remove Duplicates from Sorted Array](./src/idv/hank/leetcode/RemoveDuplicatesFromSortedArray.java)|Easy|
 |34|[Search for a Range](./src/idv/hank/leetcode/SearchForARange.java)|Medium|
 |50|[Pow(x, n)](./src/idv/hank/leetcode/PowXN.java)|Medium|
 |53|[Maximum Subarray](./src/idv/hank/leetcode/MaximumSubarray.java)|Medium|
 |59|[Spiral Matrix II](./src/idv/hank/leetcode/SpiralMatrixII.java)|Medium|
 |61|[Rotate List](./src/idv/hank/leetcode/RotateList.java)|Medium|
+|66|[Plus One](./src/idv/hank/leetcode/PlusOne.java)|Easy|
 |67|[Add Binary](./src/idv/hank/leetcode/AddBinary.java)|Easy|
 |69|[Sqrt(x)](./src/idv/hank/leetcode/SqrtRoot.java)|Medium|
 |136|[Single Number](./src/idv/hank/leetcode/SingleNumber.java)|Medium|
