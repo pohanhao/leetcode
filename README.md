@@ -35,6 +35,7 @@ https://leetcode.com/problemset/algorithms/
 |231|[Power of Two](./src/idv/hank/leetcode/PowerOfTwo.java)|Easy|
 |258|[Add Digits](./src/idv/hank/leetcode/AddDigits.java)|Easy|
 |268|[Missing Number](./src/idv/hank/leetcode/MissingNumber.java)|Medium|
+|278|[First Bad Version](./src/idv/hank/leetcode/FirstBadVersion.java)|Easy|
 |287|[Find the Duplicate Number](./src/idv/hank/leetcode/FindTheDuplicateNumber.java)|Hard|
 |292|[Nim Game](./src/idv/hank/leetcode/NimGame.java)|Easy|
 |322|[Coin Change](./src/idv/hank/leetcode/CoinChange.java)|Medium|
